@@ -4,3 +4,6 @@
 [submodule "product-preview-card-component-main"]
 	path = product-preview-card-component-main
 	url = https://github.com/salahudheen007/product-preview-card-component-main
+[submodule "interactive-rating-component-main"]
+	path = interactive-rating-component-main
+	url = https://github.com/salahudheen007/interactive-rating-component-main
