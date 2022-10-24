@@ -7,3 +7,6 @@
 [submodule "interactive-rating-component-main"]
 	path = interactive-rating-component-main
 	url = https://github.com/salahudheen007/interactive-rating-component-main
+[submodule "article-preview-component-masterrr"]
+	path = article-preview-component-masterrr
+	url = https://github.com/salahudheen007/article-preview-component-masterrr
