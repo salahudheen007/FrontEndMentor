@@ -10,3 +10,6 @@
 [submodule "article-preview-component-masterrr"]
 	path = article-preview-component-masterrr
 	url = https://github.com/salahudheen007/article-preview-component-masterrr
+[submodule "news-homepage-main"]
+	path = news-homepage-main
+	url = https://github.com/salahudheen007/news-homepage-main
